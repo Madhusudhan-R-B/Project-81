@@ -1,0 +1,9 @@
+.body_background{
+    background-image: url(Pencil-Wallpaper.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#mycanvas{
+    background-color: white;
+}
